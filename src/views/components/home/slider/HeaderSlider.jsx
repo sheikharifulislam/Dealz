@@ -44,16 +44,16 @@ const HeaderSlider = () => {
             } else {
                 setCount(0);
             }
-        }, 3000);
+        }, 4000);
         return () => {
             resetTimeOut();
         };
     }, [count, sliderData]);
 
     return (
-        <div className="w-full  overflow-hidden">
+        <div className="w-full overflow-hidden relative">
             <div
-                className="w-[500%] h-full flex relative top-0 duration-300"
+                className="w-[500%] h-full flex relative top-0 duration-1000"
                 style={{ right: count * 100 + "%" }}
             >
                 {sliderData.map((data) => (

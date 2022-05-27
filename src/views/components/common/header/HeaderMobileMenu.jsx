@@ -7,7 +7,7 @@ const HeaderMobileMenu = ({ mobileMenu, closeMobileMenu }) => {
         <div
             className={`${
                 mobileMenu
-                    ? "opacity-100 scale-100"
+                    ? "opacity-100 scale-100 z-10"
                     : "opacity-0 scale-95 pointer-events-none"
             } absolute top-0 inset-x-0 p-2 transition transform origin-top-right mt-4 md:hidden`}
         >

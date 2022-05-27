@@ -6,7 +6,7 @@ const ProfileDropdown = ({ showProfile }) => {
         <div
             className={`${
                 showProfile
-                    ? "transform opacity-100 scale-100 translate-y-0"
+                    ? "transform opacity-100 scale-100 translate-y-0 z-10"
                     : "transform opacity-0 scale-95 translate-y-3 pointer-events-none"
             } transition ease-in duration-300 origin-top-right absolute right-0 mt-4 w-48 rounded-md shadow-lg py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none`}
         >

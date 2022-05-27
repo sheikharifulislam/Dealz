@@ -6,4 +6,7 @@
     .navlink {
         @apply block px-4 py-2 text-lg text-gray-700 hover:bg-orange-600 hover:text-white;
     }
+    .slider-arrow {
+        @apply bg-slate-300 py-3 px-5 rounded absolute top-[50%] translate-y-2/4;
+    }
 }

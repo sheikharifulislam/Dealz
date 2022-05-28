@@ -31,8 +31,8 @@ const HeaderSlider = () => {
     };
 
     useEffect(() => {
-        axios.get("/sliderData.json").then((data) => {
-            setSliderData(data.data);
+        axios.get("/sliderData.json").then((response) => {
+            setSliderData(response.data);
         });
     }, []);
 

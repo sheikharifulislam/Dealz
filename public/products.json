@@ -2,7 +2,13 @@
     {
         "id": 1,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -19,7 +25,13 @@
     {
         "id": 2,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -36,7 +48,13 @@
     {
         "id": 3,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -53,7 +71,13 @@
     {
         "id": 4,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -70,7 +94,13 @@
     {
         "id": 5,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -87,7 +117,13 @@
     {
         "id": 6,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -104,7 +140,13 @@
     {
         "id": 7,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -121,7 +163,13 @@
     {
         "id": 8,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -138,7 +186,13 @@
     {
         "id": 9,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -155,7 +209,13 @@
     {
         "id": 10,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -172,7 +232,13 @@
     {
         "id": 11,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -189,7 +255,13 @@
     {
         "id": 12,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -206,7 +278,13 @@
     {
         "id": 13,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -223,7 +301,13 @@
     {
         "id": 14,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -240,7 +324,13 @@
     {
         "id": 15,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -257,7 +347,13 @@
     {
         "id": 16,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -274,7 +370,13 @@
     {
         "id": 17,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -291,7 +393,13 @@
     {
         "id": 18,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -308,7 +416,13 @@
     {
         "id": 19,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,
@@ -325,7 +439,13 @@
     {
         "id": 20,
         "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
-        "productImage": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg",
+        "productImage": [
+            {
+                "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+            }
+        ],
+        "category": "Man's Fashion",
         "brand": "no brand ",
         "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
         "height": 50,

@@ -19,9 +19,9 @@ const Categories = () => {
             <div className="mb-4">
                 <h2 className="font-serif text-[28px]">Categories</h2>
             </div>
-            <div className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-8">
+            <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-8">
                 {categories.map((category) => (
-                    <SingleCategory id={category.id} category={category} />
+                    <SingleCategory key={category.id} category={category} />
                 ))}
             </div>
         </div>

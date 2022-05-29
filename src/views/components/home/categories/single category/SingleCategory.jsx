@@ -2,7 +2,7 @@ import React from "react";
 
 const SingleCategory = ({ category }) => {
     return (
-        <div className="h-[150px] md:h-[170px] border border-gray-100 shadow-slate-400 cursor-pointer hover:shadow-lg">
+        <div className="h-[170px] border border-gray-100 shadow-slate-400 cursor-pointer hover:shadow-lg">
             <div className="w-full h-[70%]">
                 <img
                     src={category.categoryImg}

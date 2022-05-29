@@ -5,7 +5,7 @@ const SingleProduct = ({ product }) => {
         return Math.round(((mainPrice - offerPrice) / mainPrice) * 100);
     };
     return (
-        <div className="w-full h-[340px] border border-gray-300 rounded overflow-hidden">
+        <div className="w-full h-[340px] border border-gray-300 rounded overflow-hidden shadow-md">
             <div className="w-[90%] h-[90%] relative top-[5%] left-[5%] border border-yellow-600">
                 <div className="w-full h-[65%] overflow-hidden border border-red-600">
                     <img

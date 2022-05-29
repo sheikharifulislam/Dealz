@@ -16,10 +16,10 @@ const Products = () => {
     }, []);
     return (
         <div className="cs_container">
-            <div>
+            <div className="mb-4">
                 <h2 className="font-serif text-[28px]">More To Love</h2>
             </div>
-            <div className="grid grid-cols-5">
+            <div className="grid grid-cols-5 gap-x-2 gap-y-4">
                 {products.map((product) => (
                     <SingleProduct key={product.id} product={product} />
                 ))}

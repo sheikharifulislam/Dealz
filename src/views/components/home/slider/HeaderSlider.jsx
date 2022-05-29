@@ -64,7 +64,7 @@ const HeaderSlider = () => {
                     >
                         <img
                             src={data.imgUlr}
-                            className="w-full h-full"
+                            className="w-full h-full object-cover"
                             alt=""
                         />
                     </NavLink>

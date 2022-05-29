@@ -13,7 +13,14 @@ const Products = () => {
                 console.log(error.message);
             });
     }, []);
-    return <div>Products</div>;
+    return (
+        <div className="cs_container">
+            <div>
+                <h2 className="font-serif text-[28px]">More To Love</h2>
+            </div>
+            <div></div>
+        </div>
+    );
 };
 
 export default Products;

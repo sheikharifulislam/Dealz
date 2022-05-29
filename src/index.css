@@ -30,4 +30,7 @@
     .slider-arrow {
         @apply bg-slate-300 md:py-3 md:px-5 py-2 px-3 rounded absolute top-[50%] translate-y-[-50%];
     }
+    .cs_container {
+        @apply container max-w-[90%] mx-auto mt-5;
+    }
 }

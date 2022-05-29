@@ -15,7 +15,7 @@ const Categories = () => {
             });
     }, []);
     return (
-        <div className="container max-w-[90%] mx-auto mt-5">
+        <div className="cs_container">
             <div className="mb-4">
                 <h2 className="font-serif text-[28px]">Categories</h2>
             </div>

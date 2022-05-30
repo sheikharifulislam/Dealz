@@ -5,7 +5,7 @@
         "productImage": [
             {
                 "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
-                "imgUrl": "https://static-01.daraz.com.bd/p/c347f84a0a9fda354b0a7749a12aef07.jpg"
+                "imgUrl": "https://static-01.daraz.com.bd/p/2f5bb029a89516a4e763472d8ddf5135.jpg_400x400q75-product.jpg_.webp"
             }
         ],
         "category": "Man's Fashion",
@@ -21,8 +21,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 2,
@@ -46,8 +51,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 3,
@@ -71,8 +81,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 4,
@@ -96,8 +111,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 5,
@@ -121,8 +141,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 6,
@@ -146,8 +171,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 7,
@@ -171,8 +201,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 8,
@@ -196,8 +231,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 9,
@@ -221,8 +261,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 10,
@@ -246,8 +291,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 11,
@@ -271,8 +321,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 12,
@@ -296,8 +351,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 13,
@@ -321,8 +381,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 14,
@@ -346,8 +411,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 15,
@@ -371,8 +441,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 16,
@@ -396,8 +471,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 17,
@@ -421,8 +501,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 18,
@@ -446,8 +531,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 19,
@@ -471,8 +561,13 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     },
     {
         "id": 20,
@@ -496,7 +591,12 @@
         "haveStocking": 100,
         "size": [],
         "color": [],
-        "rating": 100,
-        "review": []
+        "rating": 5,
+        "review": [
+            {
+                "userId": "1",
+                "comment": "noting"
+            }
+        ]
     }
 ]

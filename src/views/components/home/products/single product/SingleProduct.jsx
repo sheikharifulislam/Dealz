@@ -1,4 +1,5 @@
 import React from "react";
+import StarRating from "../../../../../lib/star rating/StarRating";
 
 const SingleProduct = ({ product }) => {
     const offerRange = (mainPrice, offerPrice) => {
@@ -6,8 +7,8 @@ const SingleProduct = ({ product }) => {
     };
     return (
         <div className="w-full h-[340px] border border-gray-300 rounded overflow-hidden shadow-md">
-            <div className="w-[90%] h-[90%] relative top-[5%] left-[5%] border border-yellow-600">
-                <div className="w-full h-[65%] overflow-hidden border border-red-600">
+            <div className="w-[90%] h-[90%] relative top-[5%] left-[5%]">
+                <div className="w-full h-[65%] overflow-hidden">
                     <img
                         src={product.productImage[0].imgUrl}
                         className="w-full h-full duration-700"
@@ -20,9 +21,9 @@ const SingleProduct = ({ product }) => {
                             {product.productName}
                         </h4>
                     </div>
-                    <div className="w-full h-[34%]">
+                    <div className="w-full h-[35%] mt-1">
                         <div>
-                            <h5 className="font-serif">
+                            <h5 className="font-serif text-base leading-3">
                                 ${product.offerPrice}
                             </h5>
                         </div>
@@ -36,9 +37,13 @@ const SingleProduct = ({ product }) => {
                         </div>
                     </div>
                     <div className="flex items-center">
-                        <div></div>
                         <div>
-                            <span className="text-sm"></span>
+                            <StarRating readonly />
+                        </div>
+                        <div>
+                            <span className="text-[12px] ml-1">
+                                ({product.review.length})
+                            </span>
                         </div>
                     </div>
                 </div>

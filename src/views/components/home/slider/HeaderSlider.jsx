@@ -1,70 +1,70 @@
-import axios from "axios";
-import { useEffect, useRef, useState } from "react";
-import { AiOutlineLeft, AiOutlineRight } from "react-icons/ai";
-import { NavLink } from "react-router-dom";
+import axios from 'axios'
+import { useEffect, useRef, useState } from 'react'
+import { AiOutlineLeft, AiOutlineRight } from 'react-icons/ai'
+import { NavLink } from 'react-router-dom'
 
 const HeaderSlider = () => {
-    const [sliderData, setSliderData] = useState([]);
-    const [count, setCount] = useState(0);
-    const timeOutRef = useRef(null);
+    const [sliderData, setSliderData] = useState([])
+    const [count, setCount] = useState(0)
+    const timeOutRef = useRef(null)
 
     const resetTimeOut = () => {
         if (timeOutRef.current) {
-            clearTimeout(timeOutRef.current);
+            clearTimeout(timeOutRef.current)
         }
-    };
+    }
 
     const incrementCount = () => {
         if (count < sliderData.length - 1 || 0) {
-            setCount((previousState) => previousState + 1);
+            setCount((previousState) => previousState + 1)
         } else {
-            setCount(0);
+            setCount(0)
         }
-    };
+    }
 
     const decrementCount = () => {
         if (count > 0) {
-            setCount((previousState) => previousState - 1);
+            setCount((previousState) => previousState - 1)
         } else {
-            setCount(sliderData.length - 1 || 0);
+            setCount(sliderData.length - 1 || 0)
         }
-    };
+    }
 
     useEffect(() => {
-        axios.get("/sliderData.json").then((response) => {
-            setSliderData(response.data);
-        });
-    }, []);
+        axios.get('/sliderData.json').then((response) => {
+            setSliderData(response.data)
+        })
+    }, [])
 
     useEffect(() => {
-        resetTimeOut();
+        resetTimeOut()
         timeOutRef.current = setTimeout(() => {
             if (count < sliderData.length - 1 || 0) {
-                setCount((previousState) => previousState + 1);
+                setCount((previousState) => previousState + 1)
             } else {
-                setCount(0);
+                setCount(0)
             }
-        }, 4000);
+        }, 4000)
         return () => {
-            resetTimeOut();
-        };
-    }, [count, sliderData]);
+            resetTimeOut()
+        }
+    }, [count, sliderData])
 
     return (
-        <div className="w-full overflow-hidden relative">
+        <div className="relative w-full overflow-hidden">
             <div
-                className="w-[500%] h-full flex relative top-0 duration-1000"
-                style={{ right: count * 100 + "%" }}
+                className="relative top-0 flex h-full w-[500%] duration-1000"
+                style={{ right: count * 100 + '%' }}
             >
                 {sliderData.map((data) => (
                     <NavLink
                         to="/"
                         key={data.id}
-                        className="block w-full h-full"
+                        className="block h-full w-full"
                     >
                         <img
                             src={data.imgUlr}
-                            className="w-full h-full object-cover"
+                            className="h-full w-full object-cover"
                             alt=""
                         />
                     </NavLink>
@@ -85,7 +85,7 @@ const HeaderSlider = () => {
                 </button>
             </div>
         </div>
-    );
-};
+    )
+}
 
-export default HeaderSlider;
+export default HeaderSlider

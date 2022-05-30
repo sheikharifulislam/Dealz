@@ -1,19 +1,19 @@
-import axios from "axios";
-import React, { useEffect, useState } from "react";
-import SingleCategory from "./single category/SingleCategory";
+import axios from 'axios'
+import React, { useEffect, useState } from 'react'
+import SingleCategory from './single category/SingleCategory'
 
 const Categories = () => {
-    const [categories, setCategories] = useState([]);
+    const [categories, setCategories] = useState([])
     useEffect(() => {
         axios
-            .get("/categoriesData.json")
+            .get('/categoriesData.json')
             .then((response) => {
-                setCategories(response.data);
+                setCategories(response.data)
             })
             .catch((error) => {
-                console.log(error.message);
-            });
-    }, []);
+                console.log(error.message)
+            })
+    }, [])
     return (
         <div className="cs_container">
             <div className="mb-4">
@@ -25,7 +25,7 @@ const Categories = () => {
                 ))}
             </div>
         </div>
-    );
-};
+    )
+}
 
-export default Categories;
+export default Categories

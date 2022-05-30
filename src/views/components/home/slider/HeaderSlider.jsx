@@ -1,54 +1,18 @@
 import axios from 'axios'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { AiOutlineLeft, AiOutlineRight } from 'react-icons/ai'
 import { NavLink } from 'react-router-dom'
+import useSlider from '../../../../hooks/useSlider'
 
 const HeaderSlider = () => {
     const [sliderData, setSliderData] = useState([])
-    const [count, setCount] = useState(0)
-    const timeOutRef = useRef(null)
-
-    const resetTimeOut = () => {
-        if (timeOutRef.current) {
-            clearTimeout(timeOutRef.current)
-        }
-    }
-
-    const incrementCount = () => {
-        if (count < sliderData.length - 1 || 0) {
-            setCount((previousState) => previousState + 1)
-        } else {
-            setCount(0)
-        }
-    }
-
-    const decrementCount = () => {
-        if (count > 0) {
-            setCount((previousState) => previousState - 1)
-        } else {
-            setCount(sliderData.length - 1 || 0)
-        }
-    }
+    const { count, incrementCount, decrementCount } = useSlider(sliderData)
 
     useEffect(() => {
         axios.get('/sliderData.json').then((response) => {
             setSliderData(response.data)
         })
     }, [])
-
-    useEffect(() => {
-        resetTimeOut()
-        timeOutRef.current = setTimeout(() => {
-            if (count < sliderData.length - 1 || 0) {
-                setCount((previousState) => previousState + 1)
-            } else {
-                setCount(0)
-            }
-        }, 4000)
-        return () => {
-            resetTimeOut()
-        }
-    }, [count, sliderData])
 
     return (
         <div className="relative w-full overflow-hidden">

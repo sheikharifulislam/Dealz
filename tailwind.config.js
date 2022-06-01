@@ -1,15 +1,18 @@
-const defaultTheme = require("tailwindcss/defaultTheme");
+const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
-    content: ["./src/**/*.{js,jsx,ts,tsx}"],
+    content: ['./src/**/*.{js,jsx,ts,tsx}'],
     theme: {
         extend: {},
         screens: {
-            xs: "475px",
+            xs: '475px',
             ...defaultTheme.screens,
         },
         fontFamily: {
-            openSans: ["Open Sans", "sans-serif"],
+            openSans: ['Open Sans', 'sans-serif'],
         },
     },
-    plugins: [require("@tailwindcss/line-clamp")],
+    plugins: [
+        require('@tailwindcss/line-clamp'),
+        require('@tailwindcss/forms'),
+    ],
 };

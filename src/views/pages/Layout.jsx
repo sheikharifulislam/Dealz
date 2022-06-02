@@ -1,7 +1,7 @@
-import React from "react";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/header/Header";
-import Main from "./Main";
+import React from 'react';
+import Footer from '../components/common/footer/Footer';
+import Header from '../components/common/header/Header';
+import Main from './Main';
 
 const Layout = () => {
     return (

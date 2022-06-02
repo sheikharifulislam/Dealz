@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -29,9 +29,18 @@
         @apply block px-4 py-2 text-lg text-gray-700 hover:bg-orange-600 hover:text-white;
     }
     .slider-arrow {
-        @apply bg-slate-300 md:py-3 md:px-5 py-2 px-3 rounded absolute top-[50%] translate-y-[-50%];
+        @apply absolute top-[50%] translate-y-[-50%] rounded bg-slate-300 py-2 px-3 md:py-3 md:px-5;
     }
     .cs_container {
-        @apply container max-w-[90%] mx-auto mt-5;
+        @apply container mx-auto mt-5 max-w-[90%];
+    }
+    .footer-nav {
+        @apply mt-6 flex flex-col space-y-1 text-gray-400;
+    }
+    .footer-navLink {
+        @apply transition hover:text-white;
+    }
+    .footer-icon {
+        @apply transition hover:opacity-75;
     }
 }

@@ -7,13 +7,13 @@ import SuperDeals from '../components/home/super deals/SuperDeals';
 
 const Home = () => {
     return (
-        <>
+        <div className="bg-zinc-100">
             <HeaderSlider />
             <Categories />
             <SuperDeals />
             <Products />
             <ReviewTestimonial />
-        </>
+        </div>
     );
 };
 

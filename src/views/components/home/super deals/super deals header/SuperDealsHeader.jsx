@@ -4,12 +4,12 @@ import offerName from '../../../../../assets/images/offerName.webp';
 
 const SuperDealsHeader = () => {
     return (
-        <div className="flex w-full items-center">
+        <div className="w-ful mx-auto mb-3 flex items-center">
             <div>
                 <img src={offerName} alt="" />
             </div>
             <div className="flex-1">
-                <h4 className="font-mono text-xl text-gray-400">
+                <h4 className="font-mono text-xl text-gray-500">
                     Top products. Incredible prices.
                 </h4>
             </div>

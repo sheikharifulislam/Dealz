@@ -1,8 +1,8 @@
-import React from 'react'
+import React from 'react';
 
 const SingleCategory = ({ category }) => {
     return (
-        <div className="h-[170px] cursor-pointer border border-gray-100 shadow-slate-400 hover:shadow-lg">
+        <div className="h-[170px] cursor-pointer border border-gray-100 bg-white shadow-slate-400 hover:shadow-lg">
             <div className="h-[70%] w-full">
                 <img
                     src={category.categoryImg}
@@ -14,7 +14,7 @@ const SingleCategory = ({ category }) => {
                 <h5>{category.categoryName}</h5>
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default SingleCategory
+export default SingleCategory;

@@ -8,6 +8,9 @@ module.exports = {
             ...defaultTheme.screens,
         },
         fontFamily: {
+            sans: ['ui-sans-serif', 'system-ui'],
+            serif: ['ui-serif', 'Georgia'],
+            mono: ['ui-monospace', 'SFMono-Regular'],
             openSans: ['Open Sans', 'sans-serif'],
         },
     },

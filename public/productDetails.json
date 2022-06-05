@@ -1,0 +1,35 @@
+{
+    "id": 1,
+    "productName": "Premium Multicolour Cotton Polo t-Shirt For Men",
+    "productImages": [
+        {
+            "imgId": "3fe3d234-d82e-40ad-9910-d6ede7b6e767",
+            "imgUrl": "https://ae01.alicdn.com/kf/HTB1ymtFNFXXXXckXpXXq6xXFXXXY/6-Designs-Mens-T-Shirt-Slim-Fit-Crew-Neck-T-shirt-Men-Short-Sleeve-Shirt-Casual.jpg_220x220xz.jpg_.webp"
+        }
+    ],
+    "categorys": {
+        "category": "Man's Fashion",
+        "subCategory": ["shirt"]
+    },
+    "brand": "no brand ",
+    "productDetails": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet, consectetur adip",
+    "height": 50,
+    "price": "200",
+    "offerPrice": "170",
+    "weight": 1,
+    "sku": "182261395_BD-1182550261",
+    "mainMaterial": "MaterialCotton",
+    "inTheBox": "LASIKA BANGLADESH Cool Quartz Stylish Wrist Watch For Man",
+    "haveStocking": 100,
+    "order": 100,
+    "size": ["XXS", "XS", "S", "M", "l", "XL", "2Xl"],
+    "colors": ["read", "green", "blue", "pink", "yellow"],
+    "rating": 5,
+    "review": [
+        {
+            "userId": "1",
+            "comment": "noting",
+            "rating": 5
+        }
+    ]
+}

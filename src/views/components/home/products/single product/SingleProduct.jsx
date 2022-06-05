@@ -4,11 +4,11 @@ import offerRange from '../../../../../utils/offerRange';
 
 const SingleProduct = ({ product }) => {
     return (
-        <div className="h-[340px] w-full overflow-hidden rounded border border-gray-300 bg-white shadow-md">
+        <div className="h-[340px] w-full overflow-hidden rounded border border-gray-300 bg-white shadow-md hover:cursor-pointer">
             <div className="relative top-[5%] left-[5%] h-[90%] w-[90%]">
                 <div className="h-[65%] w-full overflow-hidden">
                     <img
-                        src={product.productImage[0].imgUrl}
+                        src={product.productImages[0].imgUrl}
                         className="h-full w-full duration-700"
                         alt={product.inTheBox}
                     />

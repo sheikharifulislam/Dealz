@@ -18,7 +18,7 @@ const SuperDeals = () => {
     return (
         <section className="cs_container my-10 rounded-md bg-white px-4 py-6 drop-shadow-lg">
             <SuperDealsHeader />
-            <div className="grid grid-cols-5 gap-x-4">
+            <div className="grid grid-cols-1 gap-x-4 gap-y-3 xs:grid-cols-2 sm:grid-cols-3 sm:gap-y-0 md:grid-cols-4 xl:grid-cols-5">
                 {superDeals.slice(0, 5).map((singleDeals) => (
                     <SuperDealsCard
                         key={singleDeals.id}

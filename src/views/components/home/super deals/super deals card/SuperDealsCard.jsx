@@ -2,12 +2,12 @@ import React from 'react';
 import offrRange from '../../../../../utils/offerRange';
 
 const SuperDealsCard = ({ singleDeals }) => {
-    const { productImage, price, offerPrice, order } = singleDeals;
+    const { productImages, price, offerPrice, order } = singleDeals;
     return (
-        <div className="h-[250px] w-full overflow-hidden border bg-white">
+        <div className="h-[250px] w-full overflow-hidden border bg-white hover:cursor-pointer">
             <div className="h-[75%] w-full">
                 <img
-                    src={productImage[0].imgUrl}
+                    src={productImages[0].imgUrl}
                     className="h-full w-full"
                     alt=""
                 />

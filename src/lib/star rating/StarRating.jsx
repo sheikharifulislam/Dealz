@@ -1,12 +1,12 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 const StarRating = ({ readonly, size }) => {
-    const [rating, setRating] = useState(0)
-    const [hover, setHover] = useState(0)
+    const [rating, setRating] = useState(0);
+    const [hover, setHover] = useState(0);
     return (
         <div className="star-rating">
             {[...Array(5)].map((star, index) => {
-                index += 1
+                index += 1;
                 return (
                     <button
                         type="button"
@@ -27,10 +27,10 @@ const StarRating = ({ readonly, size }) => {
                             &#9733;
                         </span>
                     </button>
-                )
+                );
             })}
         </div>
-    )
-}
+    );
+};
 
-export default StarRating
+export default StarRating;

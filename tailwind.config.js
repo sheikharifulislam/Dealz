@@ -1,6 +1,6 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
-    content: ['./public/index.html', './src/**/*.{js,jsx,ts,tsx,}'],
+    content: ['./src/**/*.{js,jsx,ts,tsx,}', './public/index.html'],
     theme: {
         extend: {},
         screens: {
@@ -12,7 +12,7 @@ module.exports = {
             serif: ['ui-serif', 'Georgia'],
             mono: ['ui-monospace', 'SFMono-Regular'],
             openSans: ['Open Sans', 'sans-serif'],
-            roboto: ['Roboto', 'sans-serif']
+            roboto: ['Roboto', 'sans-serif'],
         },
     },
     plugins: [

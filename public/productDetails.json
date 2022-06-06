@@ -39,7 +39,7 @@
     "haveStocking": 100,
     "order": 100,
     "size": ["XXS", "XS", "S", "M", "l", "XL", "2Xl"],
-    "colors": ["read", "green", "blue", "pink", "yellow"],
+    "colors": ["red", "green", "blue", "pink", "yellow"],
     "rating": 5,
     "review": [
         {

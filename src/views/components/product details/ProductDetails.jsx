@@ -32,41 +32,52 @@ const ProductDetails = () => {
             <div>
                 <div className="flex justify-between">
                     <div className="w-[30%]">
-                        <div className="h-[330px] border border-pink-500">
+                        <div className="h-[330px] border-b border-gray-300 pb-2">
                             {Object.keys(product).length >= 1 && (
                                 <img
                                     src={product?.productImages[0].imgUrl}
-                                    className="h-full w-full"
+                                    className="h-full w-full rounded"
                                     alt=""
                                 />
                             )}
                         </div>
-                        <div>
+                        <div className="mt-3 flex">
                             {product?.productImages?.map((image, index) => (
-                                <img src={image.imgUrl} key={index} alt="" />
+                                <img
+                                    src={image.imgUrl}
+                                    key={index}
+                                    className="mr-1 h-14 w-14 cursor-pointer rounded border hover:border-pink-400"
+                                    alt=""
+                                />
                             ))}
                         </div>
                     </div>
                     <div className="w-[40%]">
-                        <div>
-                            <h2>{product.productName}</h2>
-                        </div>
-                        <div>
-                            <span>
-                                3.9 <StarRating />
-                            </span>
-                            <span>412 review</span>
-                        </div>
-                        <div>
-                            <span>Brand: {product.brand}</span>
-                        </div>
-                        <div>
-                            <small>${product.offerPrice}</small>
+                        <div className="border-b-2 border-gray-100 pb-2">
                             <div>
-                                <del>
+                                <h2>{product.productName}</h2>
+                            </div>
+                            <div className="flex items-center">
+                                <span className="flex items-center">
+                                    3.9 <StarRating readonly={true} />
+                                </span>
+                                <span className="ml-5">412 review</span>
+                            </div>
+                            <div>
+                                <span className="capitalize">
+                                    Brand: {product.brand}
+                                </span>
+                            </div>
+                        </div>
+                        <div>
+                            <small className="text-2xl text-[#f57224]">
+                                ${product.offerPrice}
+                            </small>
+                            <div>
+                                <del className="text-md text-gray-500">
                                     <small>${product.price}</small>
                                 </del>
-                                <small className="ml-1 inline-block text-xs">
+                                <small className="ml-1 inline-block text-lg">
                                     {offerRange(
                                         product.price,
                                         product.offerPrice
@@ -77,10 +88,10 @@ const ProductDetails = () => {
                         </div>
                         <div>
                             <h4>Color</h4>
-                            <div>
+                            <div className="item-center flex">
                                 {product.colors?.map((color, index) => (
                                     <div
-                                        className="h-8 w-8 rounded-full"
+                                        className="h-8 w-8 rounded-[50%]"
                                         style={{ backgroundColor: color }}
                                         key={index}
                                     ></div>

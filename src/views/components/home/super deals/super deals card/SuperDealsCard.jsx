@@ -1,5 +1,5 @@
-import React from 'react';
-import offrRange from '../../../../../utils/offerRange';
+import React from "react";
+import offrRange from "../../../../../utils/offerRange";
 
 const SuperDealsCard = ({ singleDeals }) => {
     const { productImages, price, offerPrice, order } = singleDeals;
@@ -26,7 +26,7 @@ const SuperDealsCard = ({ singleDeals }) => {
                     </div>
                 </div>
                 <div>
-                    <small className="text-md font-roboto text-gray-500">
+                    <small className="font-roboto text-gray-500">
                         {order} orders
                     </small>
                 </div>

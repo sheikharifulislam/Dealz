@@ -1,6 +1,6 @@
-import React from 'react';
-import { NavLink } from 'react-router-dom';
-import offerName from '../../../../../assets/images/offerName.webp';
+import React from "react";
+import { NavLink } from "react-router-dom";
+import offerName from "../../../../../assets/images/offerName.webp";
 
 const SuperDealsHeader = () => {
     return (
@@ -16,7 +16,7 @@ const SuperDealsHeader = () => {
             <div>
                 <NavLink
                     to="/"
-                    className="sm:text-md block font-mono text-sm underline decoration-wavy"
+                    className="block font-mono text-sm underline decoration-wavy"
                 >
                     View More
                 </NavLink>

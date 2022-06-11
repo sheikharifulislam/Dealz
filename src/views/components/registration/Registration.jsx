@@ -1,10 +1,9 @@
-import React from "react";
+import { NavLink } from "react-router-dom";
 import { signupFields } from "../../../static data/formFields";
-import InputBox from "./inputBox/InputBox";
-
+import InputBox from "../../components/common/inputBox/InputBox";
 const Registration = () => {
     return (
-        <section className="mx-auto my-5 mb-10 w-[90%] rounded bg-white pt-10 pb-20 sm:w-[70%] md:w-[55%] lg:w-[45%]">
+        <section className="mx-auto my-5 mb-10 w-[90%] rounded bg-white pt-10 pb-20 shadow-md sm:w-[70%] md:w-[55%] lg:w-[45%]">
             <div className="text-center font-serif">
                 <h2>Wellcome To Our Shop</h2>
                 <h4>Create An Acount</h4>
@@ -29,6 +28,17 @@ const Registration = () => {
                     Sign Up
                 </button>
             </form>
+            <div className="mt-16 text-center text-xs">
+                <p>
+                    Alredy Have An Acount
+                    <NavLink
+                        to="/signin"
+                        className="ml-2 text-blue-500 underline"
+                    >
+                        Sign In
+                    </NavLink>
+                </p>
+            </div>
         </section>
     );
 };

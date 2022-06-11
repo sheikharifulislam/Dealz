@@ -13,7 +13,7 @@ const Login = () => {
                 <div className="mr-4 px-3 sm:w-[45%] sm:px-0">
                     <div className="mt-2">
                         <h2 className="text-center font-serif">
-                            Login To Payfully
+                            Login To Dealz
                         </h2>
                     </div>
                     <form>
